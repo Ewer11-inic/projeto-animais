@@ -9,7 +9,7 @@ ul, li, p{
 }
 a{
     text-decoration: none;
-    color: f #fff;
+    color: #fff;
 }
 .header{
     background-color: #1d1e20;
@@ -17,18 +17,18 @@ a{
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    padding:20px;
+    padding: 20px;
 }
 .menu{
     display: flex;
 }
 .menu li{
-    margin-left: 10px;
+    margin-left: 10px;    
 }
 .menu li a{
     display: block;
     padding: 10px;
-    background-color: tomato;
+    background-color: tomato;   
 }
 h1{
     text-align: center;
@@ -43,6 +43,6 @@ img{
 .flex{
     display: flex;
     flex-wrap: wrap;
-    max-width: 880px;
+    max-width: 800px;
     margin: 20px auto;
 }
